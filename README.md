@@ -58,7 +58,7 @@ Side note: I’m particularly interested in the fields of AI and machine learnin
 
 <br>                                                 
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=hijab-beg&theme=journey&dithering=true&pixelate_avatar=false" alt="hijab-beg's Stats">
-<a href="https://github.com/hijab-beg/github-readme-stats"> </a>
+<a href="https://github.com/hijab-beg/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-fawn-seven-41.vercel.app/api?username=hijab-beg&theme=gruvbox&hide_border=true"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijab-beg&theme=gruvbox&show_icons=true&hide_border=true&layout=donut" alt="hijab-beg's Top Languages">
 </div>
