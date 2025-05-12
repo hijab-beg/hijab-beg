@@ -1,4 +1,4 @@
-# Hi 👋, Hejab Beg
+# Hi 👋, I'm Hejab Beg
 ### 🚀 Data Science Enthusiast
 
 I’m a 20-year-old data science enthusiast based in Islamabad, Pakistan with a strong passion for data visualization, analytics, and uncovering meaningful patterns in complex datasets. With a solid grounding in data science, programming, and critical thinking, I enjoy approaching challenges with a blend of creativity and structured logic. My curiosity fuels a constant drive to explore emerging technologies and deepen my understanding of the data-driven world. I’m methodical, driven, and always looking for innovative ways to extract actionable insights from data.
