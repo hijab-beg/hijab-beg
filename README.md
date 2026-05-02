@@ -1,8 +1,8 @@
 # Hi 👋, I'm Hejab Beg
 ### 🚀 Data Science Enthusiast | AI Fan
 
-I’m a 21-year-old data science enthusiast based in Islamabad, Pakistan, with a strong passion for data visualization, analytics, and uncovering meaningful patterns in complex datasets. With a solid grounding in data science, programming, and critical thinking, I enjoy approaching challenges with a blend of creativity and structured logic. My curiosity fuels a constant drive to explore emerging technologies and deepen my understanding of the data-driven world. I’m methodical, driven, and always looking for innovative ways to extract actionable insights from data.
-Side note: I’m particularly interested in the fields of AI and machine learning, and I’m continually expanding my skills in these areas. 
+I'm a 21-year-old data science enthusiast based in Islamabad, Pakistan, with a strong passion for data visualization, analytics, and uncovering meaningful patterns in complex datasets. With a solid grounding in data science, programming, and critical thinking, I enjoy approaching challenges with a blend of creativity and structured logic. My curiosity fuels a constant drive to explore emerging technologies and deepen my understanding of the data-driven world. I'm methodical, driven, and always looking for innovative ways to extract actionable insights from data.
+Side note: I'm particularly interested in the fields of AI and machine learning, and I'm continually expanding my skills in these areas. 
 
 🔹 Interests: Data Visualizations | AI Engineering | Big Data Technologies | Predictive Analytics <br>
 🔹 Always Learning: Open to collaborations and exciting projects!<br>
@@ -13,42 +13,47 @@ Side note: I’m particularly interested in the fields of AI and machine learnin
 
 <p>
 <a href="mailto:hijabtb15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-hijabtb15@gmail.com-%23c62929?style=flat&logo=Gmail&logoColor=white" alt="email" style="margin-bottom: 5px;"/></a>
-<a href="https://linkedin.com/in/hejab-beg-" target="_blank"> <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+<a href="https://linkedin.com/in/hejab-beg-" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=flat&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/></a>
+</p>
 
 ---
 
-## Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/python.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hadoop.svg" alt="hadoop" width="40" height="40"/> </a> 
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/apache-spark.svg" alt="spark" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/oracle.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/r-lang.svg" alt="R" height="40" width="40" /></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/java.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/d3.svg" alt="d3js" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/html-5.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/figma.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linux-tux.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c-plusplus.svg" alt="cpp" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="csharp" height="40" width="40" /></a>
-<a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a> 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a> 
-<a href="https://numpy.org//" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/numpy.svg" alt="numpy" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pandas-icon.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/opencv.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/seaborn-icon.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://www.pytorch.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+## Languages and Tools:
 
+<div align="center">
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" /></a>
+  <a href="https://www.r-project.org" target="_blank"><img src="https://skillicons.dev/icons?i=r&theme=light" alt="R" /></a>
+  <a href="https://www.javascript.com" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" /></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" /></a>
+  <a href="https://www.cplusplus.com" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++" /></a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://skillicons.dev/icons?i=cs&theme=light" alt="C#" /></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" /></a>
+  <a href="https://www.oracle.com" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="50" /></a>
+  <a href="https://hadoop.apache.org" target="_blank"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" height="50" /></a>
+  <a href="https://kafka.apache.org" target="_blank"><img src="https://skillicons.dev/icons?i=kafka&theme=light" alt="Kafka" /></a>
+  <a href="https://spark.apache.org" target="_blank"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" height="50" /></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" /></a>
+  <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" /></a>
+  <a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="50" /></a>
+  <a href="https://opencv.org" target="_blank"><img src="https://skillicons.dev/icons?i=opencv&theme=light" alt="OpenCV" /></a>
+  <a href="https://mlflow.org" target="_blank"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" height="50" /></a>
+  <a href="https://airflow.apache.org" target="_blank"><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" height="50" /></a>
+  <a href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="50" /></a>
+  <a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="50" /></a>
+  <a href="https://d3js.org" target="_blank"><img src="https://skillicons.dev/icons?i=d3&theme=light" alt="D3.js" /></a>
+  <a href="https://www.tableau.com" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" height="50" /></a>
+  <a href="https://powerbi.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="50" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Node.js" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=light" alt="Express.js" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML5" /></a>
+  <a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=light" alt="Figma" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" /></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" /></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" /></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" /></a>
+</div>
 
 ## 🏆 Trophies:
 
@@ -56,11 +61,14 @@ Side note: I’m particularly interested in the fields of AI and machine learnin
 
 ## 📊 Statistics:
 
-<br>                                                 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=hijab-beg&theme=journey&dithering=true&pixelate_avatar=false" alt="hijab-beg's Stats">
-<a href="https://github.com/hijab-beg/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fawn-seven-41.vercel.app/api?username=hijab-beg&theme=gruvbox&hide_border=true"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hijab-beg&theme=gruvbox&show_icons=true&hide_border=true&layout=donut" alt="hijab-beg's Top Languages">
+<br>
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=hijab-beg&theme=journey&dithering=true&pixelate_avatar=false" alt="hijab-beg's Stats"/>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hijab-beg&theme=gruvbox" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hijab-beg&theme=gruvbox" alt="Top Languages by Repo"/>
 </div>
 
 ---
