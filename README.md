@@ -62,7 +62,7 @@ Side note: I'm particularly interested in the fields of AI and machine learning,
 ## 📊 Statistics:
 
 <br>
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=hijab-beg&theme=journey&dithering=true&pixelate_avatar=false" alt="hijab-beg's Stats"/>
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=hijab-beg&theme=journey&dithering=false&pixelate_avatar=false" alt="hijab-beg's Stats"/>
 
 <br>
 
